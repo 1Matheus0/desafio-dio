@@ -1,2 +1,2 @@
-# desadio-dio
+# desafio-dio
 Conhecendo Spring Data JPA na prática com Java
